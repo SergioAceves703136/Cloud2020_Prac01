@@ -87,7 +87,7 @@ images.init(
         console.log("Terms Storage Starter");
     }    
 );
-app.listen(3000, function () {
+app.listen(80, function () {
   console.log('listening on port 3000!');
 });
 
